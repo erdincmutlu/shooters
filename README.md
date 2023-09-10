@@ -1,1 +1,1 @@
-# shooters
+# Sharp shooters game
